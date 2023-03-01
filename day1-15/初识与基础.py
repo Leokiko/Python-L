@@ -33,5 +33,5 @@
 # turtle.mainloop()
 
 
-# #这个是一个import的示例导入，用来检测导入功能是否正常，直接import即可
-# import this
+# 这个是一个import的示例导入，用来检测导入功能是否正常，直接import即可
+import this
