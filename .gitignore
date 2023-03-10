@@ -1,4 +1,4 @@
 #Ignore file
 *.ckpt
 
-.data/
+data/
