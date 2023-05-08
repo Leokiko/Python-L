@@ -1,5 +1,6 @@
 #Ignore file
 *.ckpt
+*.pth
 
 data/
 __pycache__/
