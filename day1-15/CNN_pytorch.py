@@ -114,5 +114,4 @@ with torch.no_grad():  # 关闭自动求导，节省内存和计算资源
     )
 
 # 保存模型
-
 torch.save(model.state_dict(), "model.ckpt")
